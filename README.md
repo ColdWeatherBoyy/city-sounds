@@ -8,11 +8,13 @@ Our team's motivation for creating this application was to apply a culmination o
 
 In the beginning, our goal was to create an intricate end product that we could realistically use and be proud to display in our portfolios. The process of brainstorming, planning, and developing our app was important in our decidion making process. We decided that it was preferable to deliver a polished MVP that we could knowingly develop, than overshoot our goal given our time and resource constraints. We gained invaluable experience working in Github collaboratively, using Git to push code made in branches, pull from the main repo, and synchronously merge pull requests as a team. Throughout development, we learned the importance of communication. While one team member works on a function, another person's area of the application may depend on variables defined in that function. Changing even the smallest lines of code could have large scale impacts. Each of us also learned about different areas of coding from various team members. 
 
-Despite realizing we could not add every bell and whistle we originally wanted, our team is proud to deliver the final app we have. [CitySounds](https://jandreassi.github.io/city-sounds/) allows people to search by country for the top ten songs in 69 nations with a sleek, easy to navigate user interface. 
+Despite realizing we could not add every bell and whistle we originally wanted, our team is proud to deliver the final app we have. [CitySounds](https://city-sounds.herokuapp.com) allows people to search by country for the top ten songs in 69 nations with a sleek, easy to navigate user interface. 
+
+I also later went in, on learning new technologies, to build a server to avoid the need for a cors proxy, a non-production solution for the class project.
 
 ## Installation 
 
-[Click here](https://city-sounds.herokuapp.com for the deployed application.
+[Click here](https://city-sounds.herokuapp.com) for the deployed application.
 
 ## Usage
 
