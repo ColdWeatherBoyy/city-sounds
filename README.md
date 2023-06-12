@@ -12,19 +12,13 @@ Despite realizing we could not add every bell and whistle we originally wanted, 
 
 ## Installation 
 
-To use this app, please [click here](https://cors-anywhere.herokuapp.com/corsdemo) to initialize our temporary proxy server. This will enable access to Deezer's (our music API's) data!
-
-[Click here](https://jandreassi.github.io/city-sounds/) for the deployed application.
+[Click here](https://city-sounds.herokuapp.com for the deployed application.
 
 ## Usage
-
-Before using this application, please [click here](https://cors-anywhere.herokuapp.com/corsdemo) to initialize our temporary proxy server in order to access Deezer's (our music API's) data!
 
 Upon the landing page loading, simply type a country name into the search bar in the top right corner. Click the autofill option, then click search, which will show you the current top ten songs in that country!
 
 To view the top ten songs from a country you have previously searched, click the recent searches icon  ![rewinding clock](./assets/images/rewinding-clock.png)  in the upper right corner.
-
-View our deployed application [here](https://jandreassi.github.io/city-sounds/)
 
 ![CitySounds landing page](./assets/images/city-sounds-homepage.png)
 ![CitySounds top ten songs and recent searches](./assets/images/city-sounds-recent-searches.png)
